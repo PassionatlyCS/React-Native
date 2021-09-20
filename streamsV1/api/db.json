@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "Bleuga",
+      "description": "is a whale.",
+      "id": 2
+    },
+    {
+      "title": "bro",
+      "description": "bro",
+      "userId": null,
+      "id": 3
+    },
+    {
+      "title": "can i edit",
+      "description": "can i edit",
+      "id": 5
+    },
+    {
+      "title": "burh - patch",
+      "description": "bruhh - patch - patch 2",
+      "userId": "103593358877474839749",
+      "id": 6
+    },
+    {
+      "title": "This post is made after delete was a thing",
+      "description": "Idk man kinda sad that that there is so much strife in life just because we cant be efficient",
+      "userId": "103593358877474839749",
+      "id": 7
+    }
+  ]
+}
